@@ -1,16 +1,35 @@
-### Hi there 👋
+### Olá, seja bem vindo 👋
 
-<!--
-**Sousa83/Sousa83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![github](https://img.shields.io/badge/Follow-4-4183C4?logo=github&style=social)]()
 
-Here are some ideas to get you started:
+Eu sou desenvolvedor web na empresa RAG Sistemas que atua no desenvolvimento de soluções ERP, também sou estudante e monitor de desenvolvimento de sistemas no Colégio da Unicamp | Cotuca
+## 🚀 Habilidades
+ - Java ❤️
+ - SQL ❤️
+ - S.O.L.I.D ❤️
+ - Typescript ❤️
+ - Git
+ - API REST
+ - Javascript 
+ - Express 
+ - Vue Js  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📕 Aprendendo | Quero aprender! ⚡  
+- Spring ❤️
+- Micro-serviços ❤️ 
+- Teste unitário
+- DDD
+- Docker
+
+## 📬 Contate-me
+- LinkedIn: [https://www.linkedin.com/in/ricardo-sousa-b8b1641a1/]()
+- Email: [ricarosousa83@gmail.com]()
+- DIO: [https://web.digitalinnovation.one/users/ricarosousa83?tab=achievements]()
+
+<a href="https://github.com/Sousa83/Sousa83">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sousa83&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/Sousa83/Sousa83">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sousa83&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Catalin's GitHub Stats" />
+</a>
