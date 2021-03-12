@@ -2,7 +2,7 @@
 
 [![github](https://img.shields.io/badge/Follow-4-4183C4?logo=github&style=social)]()
 
-Eu sou desenvolvedor web na empresa RAG Sistemas que atua no desenvolvimento de soluções ERP, também sou estudante e monitor de desenvolvimento de sistemas no Colégio da Unicamp | Cotuca
+Eu sou desenvolvedor back-end para web na empresa RAG Sistemas, que atua no desenvolvimento de soluções ERP. Também sou estudante e monitor de desenvolvimento de sistemas no Colégio da Unicamp | Cotuca
 ## 🚀 Habilidades
  - Java ❤️
  - SQL ❤️
