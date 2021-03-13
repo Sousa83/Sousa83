@@ -15,6 +15,8 @@ Eu sou desenvolvedor back-end para web na empresa RAG Sistemas, que atua no dese
  - Vue Js  
 
 ## 📕 Aprendendo | Quero aprender! ⚡  
+Estive mais envolvimento durante os últimos meses com a Stack Javascript, mas agora quero conhecer a fundo a Stack Java, a primeira linguagem e a que mais amo 🚀
+
 - Spring ❤️
 - Micro-serviços ❤️ 
 - Teste unitário
