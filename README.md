@@ -2,34 +2,42 @@
 
 ## Sobre mim:
 
- - Eu sou desenvolvedor, estagiário, web na empresa Fbenevides Tecnologia. Atuo no desenvolvimento de soluções para web, para diversas empresas de vários setores. Também, sou estudante no Colégio da da Unicamp!
+ - Eu sou desenvolvedor, estagiário, web na empresa Fbenevides Tecnologia. 
+Atuo como fullstack (mas o meu maior foco é em backend hehe) no desenvolvimento de soluções para web, para diversas empresas de vários setores. 
 
 ## 🚀 Hard Skills:
  
- - Java 🔴
  - Typescript 🔵
  - Javascript 🟡
  - SQL ⚪
+ - Java 🔴
+ - AdonisJs 🔧
  - React 🔧
  - Vue Js  🔧
  - Express 🔧
- - AdonisJs 🔧
+ - NodeJS 🔧
  - Git 🔨
  - Jira 🔨
- - NodeJS 🔨
+ - Confluence 🔨
  - MVC 📝
  - TDD 📝
  - API REST 📝
- - S.O.L.I.D 📝
 
 ### 📕 Aprendendo | Quero aprender! ⚡  
-  - I.A 🎯
-  - Inglês 🎯
-  - Docker 🎯
-  - AWS/GCP 🎯
+  - Inglês 📕
+  - Kotlin 📕
+  - Desing pattenrs 📕
+  - Java ⚡
+  - Spring ⚡
+  - Kafka ⚡
+  - Micronaut ⚡ 
+  - Docker ⚡
+  - AWS/GCP ⚡
 
 
 ## 😄 Soft Skills
+ - Empatia 🤞
+ - Flexibilidade ⚖️
  - Proatividade 🙋‍♂️
  - Comunicação 💭
  - Trabalho em Equipe 🤼‍♂️
