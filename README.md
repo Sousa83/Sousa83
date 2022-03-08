@@ -13,7 +13,6 @@ Atuo como fullstack (mas o meu maior foco é em backend hehe) no desenvolvimento
  - Java 🔴
  - AdonisJs 🔧
  - React 🔧
- - Vue Js  🔧
  - Express 🔧
  - NodeJS 🔧
  - Git 🔨
