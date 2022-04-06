@@ -26,7 +26,6 @@ Atuo como fullstack (mas o meu maior foco é em backend hehe) no desenvolvimento
   - Inglês 📕
   - Kotlin 📕
   - Desing pattenrs 📕
-  - Java ⚡
   - Spring ⚡
   - Kafka ⚡
   - Micronaut ⚡ 
