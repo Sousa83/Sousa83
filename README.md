@@ -2,8 +2,7 @@
 
 ## Sobre mim:
 
-- Eu sou desenvolvedor, estagiário, web na empresa Fbenevides Tecnologia.
-  Atuo como fullstack (mas o meu maior foco é em backend hehe) no desenvolvimento de soluções para web, para diversas empresas de vários setores.
+Desenvolvedor backend na CI&T e formado no Colégio Técnico da Unicamp (COTUCA). 
 
 ## 🚀 Principais Hard Skills:
 
@@ -24,13 +23,13 @@
   <tr>
     <th>Linguagens</th>
     <td>
+      <img alt="Java Badge" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
+    </td>
+    <td>
       <img alt="Typescript Badge" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
     </td>
     <td>
       <img alt="Javscript Badge" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-    </td>
-    <td>
-      <img alt="Java Badge" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
     </td>
     <td>
       <img alt="HTML Badge" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
@@ -39,13 +38,13 @@
   <tr>
     <th>Frameworks</th>
     <td>
+      <img alt="Spring Badge" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
+    </td>
+    <td>
       <img alt="Adonis Badge" src="https://img.shields.io/badge/adonisjs-%23220052.svg?style=for-the-badge&logo=adonisjs&logoColor=white"> 
     </td>
     <td>
       <img alt="React Badge" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-    </td>
-    <td>
-      <img alt="Spring Badge" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
     </td>
     <td>
       <img alt="JWT Badge" src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens">
@@ -73,10 +72,8 @@
 - Inglês 📕
 - Spring 📕
 - Desing pattenrs 📕
-- Kafka ⚡
-- Micronaut ⚡
-- Docker ⚡
-- AWS/GCP ⚡
+- Docker 📕
+- AWS/GCP 📕
 
 ## 😄 Soft Skills
 
@@ -90,7 +87,6 @@
 
 - LinkedIn: [https://www.linkedin.com/in/ricardo-sousa-b8b1641a1/]()
 - Email: [ricarosousa83@gmail.com]()
-- DIO: [https://web.digitalinnovation.one/users/ricarosousa83?tab=achievements]()
 
 ## Minhas estatísticas
 
