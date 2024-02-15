@@ -8,71 +8,63 @@ Desenvolvedor backend na CI&T e formado no Colégio Técnico da Unicamp (COTUCA)
 
  <table>
   <tr>
-    <th>Processos</th>
-    <td>
-      <img alt="Jira Badge" src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white">
-    </td>
-  </tr>
-  <tr>
-    <th>Padrões</th>
-    <td>MVC</td>
-    <td>RESTFull</td>
-    <td>SOLID</td>
-    <td>TDD</td>
-  </tr>
-  <tr>
     <th>Linguagens</th>
     <td>
       <img alt="Java Badge" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
     </td>
     <td>
-      <img alt="Typescript Badge" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
-    </td>
-    <td>
       <img alt="Javscript Badge" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
     </td>
     <td>
-      <img alt="HTML Badge" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+      <img alt="SQL Badge" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
     </td>
   </tr>
   <tr>
-    <th>Frameworks</th>
+    <th>Frameworks & Stacks</th>
     <td>
       <img alt="Spring Badge" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
     </td>
     <td>
-      <img alt="Adonis Badge" src="https://img.shields.io/badge/adonisjs-%23220052.svg?style=for-the-badge&logo=adonisjs&logoColor=white"> 
+      <img alt="Node Badge" src="https://camo.githubusercontent.com/0d58facab1be74748c39244ff3d990ae8ddd765af40263ed006219154ba90649/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e6f64652e6a732d3644413535463f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d7768697465">
     </td>
     <td>
-      <img alt="React Badge" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-    </td>
-    <td>
-      <img alt="JWT Badge" src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens">
+      <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
     </td>
   </tr>
   <tr>
     <th>Ferramentas</th>
     <td>
-      <img alt="MySQL Badge" src="https://img.shields.io/badge/mysql-%230A0FFF.svg?style=for-the-badge&logo=mysql&logoColor=white">
+      <img alt="Bitbucket pipelines" src="https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white">
     </td>
     <td>
-      <img alt="SQL Express Badge" src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
+      <img alt="GCP" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white">
     </td>
     <td>
-      <img alt="Mongo DB Badge" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+      <img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
     </td>
-    <td>
-      <img alt="BitBucket Badge" src="https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white">
+   <td>
+      <img alt="Kubernets" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
+   </td>
+   <td>
+      <img alt="Jira Badge" src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white">
     </td>
+  </tr>
+  <tr>
+    <th>Padrões</th>
+    <td>SOLID</td>
+    <td>RESTFull</td>
+    <td>TDD</td>
+    <td>Clean arch</td>
+    <td>Microserviços</td>
   </tr>
  </table>
 
-### 📕 Aprendendo | Quero aprender! ⚡
+### 📕 Aprendendo e aprofundando conhecimentos
 
 - Inglês 📕
 - Spring 📕
 - Desing pattenrs 📕
-- Docker 📕
+- Docker & kubernets📕
 - AWS/GCP 📕
 
 ## 😄 Soft Skills
